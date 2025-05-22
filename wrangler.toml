@@ -1,0 +1,7 @@
+name = "tailingsiq"
+compatibility_date = "2025-05-20"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "tailingsiq-db"  # Use the name you chose in `npx wrangler d1 create`
+database_id = "3ebb9933-a8ab-45c0-8560-161f224d1087"  # Copy from wrangler output or Cloudflare dashboard
